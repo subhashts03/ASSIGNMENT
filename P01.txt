@@ -1,10 +1,9 @@
 # Python3 program to add two numbers
 num1 = 15
-<<<<<<< HEAD
+
 num2 = 500
-=======
-num2 = 1000
->>>>>>> 817a45e663fa513884aa50261331963f27c3c63e
+
+
 
 # Adding two nos
 sum = num1 + num2
